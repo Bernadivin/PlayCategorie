@@ -1,2 +1,2 @@
 # PlayCategorie
-{"categories":[{"name":"Movies","videos":[
+{"categories":[{"name":"Movies","videos":[{"description":"BERO GOSPEL est l'une des Televisions en charactere Gospel avec la diversite sans stop de la Musique Religieuse, Prédications et autres... Sans oublier des Emissions special chretienne. Veuillez nous contacter : congomonpays243@gmail.com","sources":["http://stream.zeno.fm/eyuiqh60p1qtv"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTE5NjEyMDhf/phototwo.jpg","title":"BERO GOSPEL"}]}]}
